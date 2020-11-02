@@ -1,0 +1,99 @@
+{
+  "name": "BITPIF",
+  "logoURI": "http://i.piccy.info/i9/9df08d98c958f72373c0ebda9998ae90/1603037435/4064/1401246/logo.png",
+  "keywords": ["Defi", "BITPIF", "curated"],
+  "tags": {
+    "defi": {
+      "name": "DeFi Token",
+      "description": "BITPIF token list"
+    }
+  },
+  "timestamp": "2020-10-26T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5197FBE1a86679FF1360E27862BF88B0c5119BD8",
+      "symbol": "BPF",
+      "name": "BITPIF",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+      "symbol": "GUSD",
+      "name": "Gemini dollar",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+      "symbol": "PAX",
+      "name": "Paxos Standard",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+      "symbol": "renBTC",
+      "name": "renBTC",
+      "decimals": 18,
+      "tags": ["defi"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}
